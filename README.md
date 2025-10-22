@@ -9,7 +9,7 @@ The dataset contains 5,110 records with 12 columns. The target variable `stroke`
 ---
 
 ## Dataset
-- **Source**: `healthcare-dataset-stroke-data.csv`
+- **Source**: `healthcare-dataset-stroke-data.csv` / Kaggle
 - **Features**:
   - Numerical: `age`, `avg_glucose_level`, `bmi`
   - Categorical: `gender`, `ever_married`, `work_type`, `Residence_type`, `smoking_status`
